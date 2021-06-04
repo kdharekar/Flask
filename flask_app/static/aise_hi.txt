@@ -1,0 +1,5 @@
+virtualenv intern21
+intern21\Scripts\activate
+
+.\intern21\Scripts\activate.ps1 for powershell
+python ./app.py
